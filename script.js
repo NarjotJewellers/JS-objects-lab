@@ -7,7 +7,7 @@ const student = {
     age: 32,
     enrolled: true,
     courses: ["JavaScript", "HTML", "CSS"],
-
+ 
     displayInfo() {
         return `Student: ${this.name}, Age: ${this.age}, Enrolled: ${this.enrolled}`;
     },
