@@ -68,7 +68,7 @@ console.log("Courses After Adding:", student.courses);
 console.log("Total Courses:", student.totalCourses());
 
 // -----------------------------------------------------
-// Bonus: Average Score Using Reduce
+// Bonus: Average Score Using Reduce 
 // -----------------------------------------------------
 
 const averageScore = scores.reduce((sum, num) => sum + num, 0) / scores.length;
