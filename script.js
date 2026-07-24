@@ -1,7 +1,7 @@
 // -----------------------------------------------------
 // Part 1: Creating and Understanding Objects
 // -----------------------------------------------------
-
+ 
 const student = {
     name: "Rohit Mishra",
     age: 32,
