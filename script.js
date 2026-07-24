@@ -49,7 +49,7 @@ console.log("First Score:", score1);
 console.log("Second Score:", score2);
 
 // -----------------------------------------------------
-// Part 4: Spread Operator
+// Part 4: Spread Operator 
 // -----------------------------------------------------
 
 const clonedStudent = { ...student, graduationYear: 2027 };
